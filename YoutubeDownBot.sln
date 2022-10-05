@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDownBot", "YoutubeDownBot\YoutubeDownBot.csproj", "{43944CD1-B5F7-4EB5-9397-CC93C58A9C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43944CD1-B5F7-4EB5-9397-CC93C58A9C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43944CD1-B5F7-4EB5-9397-CC93C58A9C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43944CD1-B5F7-4EB5-9397-CC93C58A9C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43944CD1-B5F7-4EB5-9397-CC93C58A9C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE53FF22-CD63-4C73-94D1-48F6D30F51C2}
+	EndGlobalSection
+EndGlobal
